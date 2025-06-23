@@ -1,0 +1,11 @@
+version: 2
+sources:
+  - name: greenhouse_raw
+    description: "Source for greenhouse data"
+    database: "my_db"
+    schema: greenhouse_raw
+    loader: dlt
+    tables:
+      - name: applications
+      - name: approvals
+      - name: candidates

@@ -1,0 +1,39 @@
+version: 2
+
+models:
+  - name: approvals_stg
+    description: "Staged approval data from Greenhouse."
+    columns:
+      - name: approval_id
+        description: "The unique identifier for the approval."
+        tests:
+          - unique
+          - not_null
+      - name: application_id
+        description: "The unique idenftier for the application the approval is associated with."
+        tests:
+          - not_null
+      - name: job_id
+        description: "The job indentifier that the approval is associated with."
+        tests:
+          - not_null
+      - name: approval_status
+        description: "The status of the approval."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - approved
+                - rejected
+      - name: approval_created_at
+        description: "Timestamp of the approval creation."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: "<= approval_updated_at"
+      - name: approval_updated_at
+        description: "Timestamp of the approval update."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: ">= approval_created_at"

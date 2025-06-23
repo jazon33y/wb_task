@@ -1,0 +1,5 @@
+pip
+autopep8
+dlt
+dlt[duckdb]
+dlt[motherduck]

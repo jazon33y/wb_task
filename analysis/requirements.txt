@@ -1,0 +1,9 @@
+pip
+autopep8
+pandas
+duckdb
+jupysql
+matplotlib
+duckdb-engine
+statsmodels
+plotnine

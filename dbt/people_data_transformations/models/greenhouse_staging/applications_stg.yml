@@ -1,0 +1,44 @@
+version: 2
+
+models:
+  - name: applications_stg
+    description: "Staged application data from Greenhouse."
+    columns:
+      - name: application_id
+        description: "The unique identifier for an application."
+        tests:
+          - unique
+          - not_null
+      - name: candidate_id
+        description: "The unique identifier for a candidate."
+        tests:
+          - not_null
+      - name: job_id
+        description: "A job identifier."
+        tests:
+          - not_null
+      - name: job_title
+        description: "The title of the job being applied to."
+        tests:
+          - not_null
+      - name: application_status
+        description: "Application status."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - rejected
+                - offered
+      - name: application_source
+        description: "The source of the application."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - "Job Board"
+                - Agency
+                - Referral
+      - name: application_created_at
+        description: "The timestamp of application creation."
+        tests:
+          - not_null

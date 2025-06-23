@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: candidates_stg
+    description: "Staged candidate data from Greenhouse."
+    columns:
+      - name: candidate_id
+        description: "The unique identifier for a candidate."
+        tests:
+          - unique
+          - not_null
+      - name: candidate_created_at
+        description: "Timestamp of the candidate creation."
+        tests:
+          - not_null
+      - name: candidate_name
+        description: "Name of the candidate"
+        tests:
+          - not_null
+      - name: candidate_status
+        description: "Hiring status of the candidate."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - active
+                - rejected
+                - hired
+      - name: candidate_source
+        description: "Candidate source."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - "Job Board"
+                - Agency
+                - Referral
+      - name: candidate_email
+        description: "Candidate email"
+        tests:
+          - not_null
+    

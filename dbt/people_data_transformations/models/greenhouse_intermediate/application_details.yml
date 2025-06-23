@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: application_details
+    description: "Intermediate model joining candidates, applications and approvals."

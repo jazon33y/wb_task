@@ -1,0 +1,9 @@
+people_data_transformations:
+  outputs:
+    dev:
+      type: duckdb
+      path: /tmp/dbt.duckdb
+    prod:
+      type: duckdb
+      path: "md:my_db?motherduck_token={{env_var('MOTHERDUCK_TOKEN')}}"
+  target: dev

@@ -1,0 +1,32 @@
+version: 2
+unit_tests:
+    - name: test_dim_candidate_logic
+      model: dim_candidate
+      description: "Test the dim_candidate logic"
+      given:
+        - input: ref('application_details')
+          format: sql
+          fixture: mock_application_details
+      expect:
+        format: sql
+        fixture: expected_test_dim_candidate_logic
+    - name: test_dim_job_logic
+      model: dim_job
+      description: "Test the dim_job logic"
+      given:
+        - input: ref('application_details')
+          format: sql
+          fixture: mock_application_details
+      expect:
+        format: sql
+        fixture: expected_test_dim_job_logic
+    - name: test_fct_applications_logic
+      model: fct_applications
+      description: "Test the fct_applications logic"
+      given:
+        - input: ref('application_details')
+          format: sql
+          fixture: mock_application_details
+      expect:
+        format: sql
+        fixture: expected_test_fct_applications_logic

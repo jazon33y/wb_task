@@ -1,0 +1,76 @@
+version: 2
+
+models:
+  - name: fct_applications
+    description: "Applications fact table"
+    columns:
+      - name: application_id
+        description: "The unique application id associated with the application."
+        tests:
+          - not_null
+      - name: job_id
+        description: "The job id associated with the application."
+        tests:
+          - not_null
+      - name: candidate_id
+        description: "The unique candidate id associated with the application."
+        tests:
+          - not_null
+      - name: application_date
+        description: "The timestamp of the application."
+        tests:
+          - not_null
+      - name: is_hired
+        description: "A boolean indicating if the candidate was hired."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - true
+                - false
+      - name: is_rejected
+        description: "A boolean indicating if the candidate was rejected."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - true
+                - false
+      - name: is_approved
+        description: "A boolean indicating if the most recent applicaiton step -> approval request was approved."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - true
+                - false
+      - name: was_offered
+        description: "A boolean indicating if the candidate was offered the job associated with the application."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - true
+                - false
+      - name: still_active
+        description: "A boolean indicating if the application is still active."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - true
+                - false
+      - name: approval_date
+        description: "A timestamp indicating when the first approval request was processed."
+        tests:
+          - not_null
+      - name: hours_to_approval
+        description: "An integer indicating the number of hours it took to process the most recent approval request from the first approval request."
+        tests:
+          - not_null
+      - name: hours_to_decision
+        description: "An integer indicating the number of hours it took to process the most recent approval request from the application timestamp."
+        tests:
+          - not_null
+          - dbt_utils.expression_is_true:
+              expression: ">= hours_to_approval"

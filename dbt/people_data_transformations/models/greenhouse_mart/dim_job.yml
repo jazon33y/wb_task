@@ -1,0 +1,18 @@
+version: 2
+
+models:
+  - name: dim_job
+    description: "Job dimension table"
+    columns:
+      - name: application_id
+        description: "The unique application id associated with the job id."
+        tests:
+          - not_null
+      - name: job_id
+        description: "A job identifier combined with application_id uniquely identifies a job."
+        tests:
+          - not_null
+      - name: job_title
+        description: "The job title."
+        tests:
+          - not_null

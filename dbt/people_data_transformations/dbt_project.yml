@@ -1,0 +1,31 @@
+name: 'people_data_transformations'
+version: '1.0.0'
+profile: 'people_data_transformations'
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+clean-targets: # directories to be removed by `dbt clean`
+  - "target"
+  - "dbt_packages"
+# Configuring models
+# Full documentation: https://docs.getdbt.com/docs/configuring-models
+models:
+  people_data_transformations:
+    +persist_docs:
+      relation: true
+      columns: true  
+    greenhouse_staging:
+      +materialized: incremental
+      +schema: greenhouse_staging
+      +tags: ["greenhouse_staging"]
+    greenhouse_intermediate:
+      +materialized: view
+      +schema: greenhouse_intermediate
+      +tags: ["greenhouse_intermediate"]
+    greenhouse_mart:
+      +materialized: incremental
+      +schema: greenhouse_mart
+      +tags: ["greenhouse_mart"]

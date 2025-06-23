@@ -1,0 +1,28 @@
+version: 2
+
+models:
+  - name: dim_candidate
+    description: "Candidate dimension table"
+    columns:
+      - name: candidate_id
+        description: "The unique identifier for a candidate."
+        tests:
+          - unique
+          - not_null
+      - name: name
+        description: "The name of the candidate."
+        tests:
+          - not_null
+      - name: email
+        description: "The email of the candidate."
+        tests:
+          - not_null
+      - name: source
+        description: "The source from which the candidate came from."
+        tests:
+          - not_null
+          - accepted_values:
+              values:
+                - "Job Board"
+                - Agency
+                - Referral

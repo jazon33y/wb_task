@@ -1,0 +1,4502 @@
+[
+  {
+    "id": "app_0",
+    "candidate_id": "cand_0",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T22:16:18.261603"
+  },
+  {
+    "id": "app_1",
+    "candidate_id": "cand_1",
+    "job_id": "job_18",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-02T11:02:20.592268"
+  },
+  {
+    "id": "app_2",
+    "candidate_id": "cand_2",
+    "job_id": "job_1",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-01T02:14:32.317724"
+  },
+  {
+    "id": "app_3",
+    "candidate_id": "cand_3",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-24T22:51:53.338815"
+  },
+  {
+    "id": "app_4",
+    "candidate_id": "cand_4",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T20:34:01.873303"
+  },
+  {
+    "id": "app_5",
+    "candidate_id": "cand_5",
+    "job_id": "job_2",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T07:13:07.198128"
+  },
+  {
+    "id": "app_6",
+    "candidate_id": "cand_6",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T09:42:47.532871"
+  },
+  {
+    "id": "app_7",
+    "candidate_id": "cand_7",
+    "job_id": "job_3",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-22T18:06:30.514751"
+  },
+  {
+    "id": "app_8",
+    "candidate_id": "cand_8",
+    "job_id": "job_9",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-26T03:05:32.505036"
+  },
+  {
+    "id": "app_9",
+    "candidate_id": "cand_9",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-26T18:43:23.127962"
+  },
+  {
+    "id": "app_10",
+    "candidate_id": "cand_10",
+    "job_id": "job_2",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-28T12:15:28.001907"
+  },
+  {
+    "id": "app_11",
+    "candidate_id": "cand_11",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-25T14:31:18.782106"
+  },
+  {
+    "id": "app_12",
+    "candidate_id": "cand_12",
+    "job_id": "job_5",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-27T09:50:22.633945"
+  },
+  {
+    "id": "app_13",
+    "candidate_id": "cand_13",
+    "job_id": "job_19",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-11T06:55:55.662735"
+  },
+  {
+    "id": "app_14",
+    "candidate_id": "cand_14",
+    "job_id": "job_4",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-11T00:29:54.821460"
+  },
+  {
+    "id": "app_15",
+    "candidate_id": "cand_15",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T23:24:06.190086"
+  },
+  {
+    "id": "app_16",
+    "candidate_id": "cand_16",
+    "job_id": "job_4",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T14:50:07.613358"
+  },
+  {
+    "id": "app_17",
+    "candidate_id": "cand_17",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T07:33:17.747760"
+  },
+  {
+    "id": "app_18",
+    "candidate_id": "cand_18",
+    "job_id": "job_6",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T16:43:30.782213"
+  },
+  {
+    "id": "app_19",
+    "candidate_id": "cand_19",
+    "job_id": "job_5",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-04T05:47:47.925401"
+  },
+  {
+    "id": "app_20",
+    "candidate_id": "cand_20",
+    "job_id": "job_1",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-21T15:34:01.386890"
+  },
+  {
+    "id": "app_21",
+    "candidate_id": "cand_21",
+    "job_id": "job_3",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-16T20:54:06.250911"
+  },
+  {
+    "id": "app_22",
+    "candidate_id": "cand_22",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T22:12:27.300200"
+  },
+  {
+    "id": "app_23",
+    "candidate_id": "cand_23",
+    "job_id": "job_7",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T18:08:31.939551"
+  },
+  {
+    "id": "app_24",
+    "candidate_id": "cand_24",
+    "job_id": "job_12",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-22T04:55:01.217521"
+  },
+  {
+    "id": "app_25",
+    "candidate_id": "cand_25",
+    "job_id": "job_19",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-17T16:22:43.423499"
+  },
+  {
+    "id": "app_26",
+    "candidate_id": "cand_26",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-26T22:30:09.238213"
+  },
+  {
+    "id": "app_27",
+    "candidate_id": "cand_27",
+    "job_id": "job_19",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-23T07:15:50.001431"
+  },
+  {
+    "id": "app_28",
+    "candidate_id": "cand_28",
+    "job_id": "job_12",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T19:21:18.674000"
+  },
+  {
+    "id": "app_29",
+    "candidate_id": "cand_29",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-19T11:14:09.630819"
+  },
+  {
+    "id": "app_30",
+    "candidate_id": "cand_30",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-12T23:50:01.161778"
+  },
+  {
+    "id": "app_31",
+    "candidate_id": "cand_31",
+    "job_id": "job_18",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-24T05:40:14.640772"
+  },
+  {
+    "id": "app_32",
+    "candidate_id": "cand_32",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-12T14:46:39.515781"
+  },
+  {
+    "id": "app_33",
+    "candidate_id": "cand_33",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-18T17:15:11.430390"
+  },
+  {
+    "id": "app_34",
+    "candidate_id": "cand_34",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T06:15:31.780172"
+  },
+  {
+    "id": "app_35",
+    "candidate_id": "cand_35",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-18T04:59:35.113726"
+  },
+  {
+    "id": "app_36",
+    "candidate_id": "cand_36",
+    "job_id": "job_3",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-10T07:58:54.017496"
+  },
+  {
+    "id": "app_37",
+    "candidate_id": "cand_37",
+    "job_id": "job_8",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T01:37:37.886583"
+  },
+  {
+    "id": "app_38",
+    "candidate_id": "cand_38",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-01T13:44:15.593496"
+  },
+  {
+    "id": "app_39",
+    "candidate_id": "cand_39",
+    "job_id": "job_15",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-01T07:42:10.050763"
+  },
+  {
+    "id": "app_40",
+    "candidate_id": "cand_40",
+    "job_id": "job_17",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-04T18:04:36.400367"
+  },
+  {
+    "id": "app_41",
+    "candidate_id": "cand_41",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-14T00:45:11.037357"
+  },
+  {
+    "id": "app_42",
+    "candidate_id": "cand_42",
+    "job_id": "job_1",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-19T12:30:25.809006"
+  },
+  {
+    "id": "app_43",
+    "candidate_id": "cand_43",
+    "job_id": "job_4",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-23T21:37:19.728142"
+  },
+  {
+    "id": "app_44",
+    "candidate_id": "cand_44",
+    "job_id": "job_9",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-13T18:02:41.557693"
+  },
+  {
+    "id": "app_45",
+    "candidate_id": "cand_45",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-02T03:54:33.589851"
+  },
+  {
+    "id": "app_46",
+    "candidate_id": "cand_46",
+    "job_id": "job_14",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-11T17:31:41.267706"
+  },
+  {
+    "id": "app_47",
+    "candidate_id": "cand_47",
+    "job_id": "job_12",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T08:50:23.059317"
+  },
+  {
+    "id": "app_48",
+    "candidate_id": "cand_48",
+    "job_id": "job_2",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-05T15:52:29.209592"
+  },
+  {
+    "id": "app_49",
+    "candidate_id": "cand_49",
+    "job_id": "job_14",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-01T19:38:25.820612"
+  },
+  {
+    "id": "app_50",
+    "candidate_id": "cand_50",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-24T09:54:15.003477"
+  },
+  {
+    "id": "app_51",
+    "candidate_id": "cand_51",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T17:36:07.698145"
+  },
+  {
+    "id": "app_52",
+    "candidate_id": "cand_52",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-16T03:09:30.957296"
+  },
+  {
+    "id": "app_53",
+    "candidate_id": "cand_53",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T01:33:12.667387"
+  },
+  {
+    "id": "app_54",
+    "candidate_id": "cand_54",
+    "job_id": "job_13",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T06:48:51.489150"
+  },
+  {
+    "id": "app_55",
+    "candidate_id": "cand_55",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T16:17:58.848138"
+  },
+  {
+    "id": "app_56",
+    "candidate_id": "cand_56",
+    "job_id": "job_17",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-27T13:08:17.041778"
+  },
+  {
+    "id": "app_57",
+    "candidate_id": "cand_57",
+    "job_id": "job_17",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T22:35:09.605286"
+  },
+  {
+    "id": "app_58",
+    "candidate_id": "cand_58",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-21T18:43:12.354214"
+  },
+  {
+    "id": "app_59",
+    "candidate_id": "cand_59",
+    "job_id": "job_17",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-21T03:55:50.857459"
+  },
+  {
+    "id": "app_60",
+    "candidate_id": "cand_60",
+    "job_id": "job_13",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T03:02:57.791065"
+  },
+  {
+    "id": "app_61",
+    "candidate_id": "cand_61",
+    "job_id": "job_1",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T08:23:12.524154"
+  },
+  {
+    "id": "app_62",
+    "candidate_id": "cand_62",
+    "job_id": "job_15",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-15T14:46:57.333302"
+  },
+  {
+    "id": "app_63",
+    "candidate_id": "cand_63",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-30T18:27:13.447748"
+  },
+  {
+    "id": "app_64",
+    "candidate_id": "cand_64",
+    "job_id": "job_8",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-20T04:43:46.636723"
+  },
+  {
+    "id": "app_65",
+    "candidate_id": "cand_65",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-22T07:31:12.810380"
+  },
+  {
+    "id": "app_66",
+    "candidate_id": "cand_66",
+    "job_id": "job_13",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-13T05:36:18.611200"
+  },
+  {
+    "id": "app_67",
+    "candidate_id": "cand_67",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-28T16:42:33.085064"
+  },
+  {
+    "id": "app_68",
+    "candidate_id": "cand_68",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T23:42:56.959112"
+  },
+  {
+    "id": "app_69",
+    "candidate_id": "cand_69",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T00:36:07.870569"
+  },
+  {
+    "id": "app_70",
+    "candidate_id": "cand_70",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-08T05:22:55.817768"
+  },
+  {
+    "id": "app_71",
+    "candidate_id": "cand_71",
+    "job_id": "job_17",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-27T18:01:17.656237"
+  },
+  {
+    "id": "app_72",
+    "candidate_id": "cand_72",
+    "job_id": "job_18",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-22T20:20:38.571436"
+  },
+  {
+    "id": "app_73",
+    "candidate_id": "cand_73",
+    "job_id": "job_11",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T09:56:38.479087"
+  },
+  {
+    "id": "app_74",
+    "candidate_id": "cand_74",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-03T01:19:24.777365"
+  },
+  {
+    "id": "app_75",
+    "candidate_id": "cand_75",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T22:55:43.281482"
+  },
+  {
+    "id": "app_76",
+    "candidate_id": "cand_76",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T08:20:18.529358"
+  },
+  {
+    "id": "app_77",
+    "candidate_id": "cand_77",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-23T13:44:03.626783"
+  },
+  {
+    "id": "app_78",
+    "candidate_id": "cand_78",
+    "job_id": "job_1",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-14T15:27:33.754583"
+  },
+  {
+    "id": "app_79",
+    "candidate_id": "cand_79",
+    "job_id": "job_15",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-18T07:57:50.889333"
+  },
+  {
+    "id": "app_80",
+    "candidate_id": "cand_80",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-14T01:02:30.403313"
+  },
+  {
+    "id": "app_81",
+    "candidate_id": "cand_81",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-15T04:04:17.567928"
+  },
+  {
+    "id": "app_82",
+    "candidate_id": "cand_82",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T22:14:34.553116"
+  },
+  {
+    "id": "app_83",
+    "candidate_id": "cand_83",
+    "job_id": "job_12",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-18T04:01:38.868759"
+  },
+  {
+    "id": "app_84",
+    "candidate_id": "cand_84",
+    "job_id": "job_10",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T07:12:53.914563"
+  },
+  {
+    "id": "app_85",
+    "candidate_id": "cand_85",
+    "job_id": "job_13",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-23T15:58:44.319485"
+  },
+  {
+    "id": "app_86",
+    "candidate_id": "cand_86",
+    "job_id": "job_20",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T12:15:19.958814"
+  },
+  {
+    "id": "app_87",
+    "candidate_id": "cand_87",
+    "job_id": "job_17",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T13:25:43.617750"
+  },
+  {
+    "id": "app_88",
+    "candidate_id": "cand_88",
+    "job_id": "job_12",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-08T09:07:15.245068"
+  },
+  {
+    "id": "app_89",
+    "candidate_id": "cand_89",
+    "job_id": "job_9",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-19T05:09:25.527587"
+  },
+  {
+    "id": "app_90",
+    "candidate_id": "cand_90",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-18T11:25:09.681989"
+  },
+  {
+    "id": "app_91",
+    "candidate_id": "cand_91",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-11T10:16:09.129046"
+  },
+  {
+    "id": "app_92",
+    "candidate_id": "cand_92",
+    "job_id": "job_9",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-02T08:36:47.638992"
+  },
+  {
+    "id": "app_93",
+    "candidate_id": "cand_93",
+    "job_id": "job_3",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T06:58:17.596612"
+  },
+  {
+    "id": "app_94",
+    "candidate_id": "cand_94",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T23:53:43.258171"
+  },
+  {
+    "id": "app_95",
+    "candidate_id": "cand_95",
+    "job_id": "job_19",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-13T02:25:26.654548"
+  },
+  {
+    "id": "app_96",
+    "candidate_id": "cand_96",
+    "job_id": "job_12",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-09T11:49:56.310873"
+  },
+  {
+    "id": "app_97",
+    "candidate_id": "cand_97",
+    "job_id": "job_18",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T12:10:44.459640"
+  },
+  {
+    "id": "app_98",
+    "candidate_id": "cand_98",
+    "job_id": "job_17",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T22:33:01.546610"
+  },
+  {
+    "id": "app_99",
+    "candidate_id": "cand_99",
+    "job_id": "job_10",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-28T14:07:37.941711"
+  },
+  {
+    "id": "app_100",
+    "candidate_id": "cand_100",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T03:39:39.087708"
+  },
+  {
+    "id": "app_101",
+    "candidate_id": "cand_101",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-24T22:35:41.630152"
+  },
+  {
+    "id": "app_102",
+    "candidate_id": "cand_102",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T03:23:55.842768"
+  },
+  {
+    "id": "app_103",
+    "candidate_id": "cand_103",
+    "job_id": "job_8",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-21T18:02:58.860182"
+  },
+  {
+    "id": "app_104",
+    "candidate_id": "cand_104",
+    "job_id": "job_15",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T04:04:25.615406"
+  },
+  {
+    "id": "app_105",
+    "candidate_id": "cand_105",
+    "job_id": "job_20",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-12T01:24:09.828589"
+  },
+  {
+    "id": "app_106",
+    "candidate_id": "cand_106",
+    "job_id": "job_6",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T21:38:55.718661"
+  },
+  {
+    "id": "app_107",
+    "candidate_id": "cand_107",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-11T08:50:26.066101"
+  },
+  {
+    "id": "app_108",
+    "candidate_id": "cand_108",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-07T13:21:03.244241"
+  },
+  {
+    "id": "app_109",
+    "candidate_id": "cand_109",
+    "job_id": "job_5",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-23T13:06:34.275302"
+  },
+  {
+    "id": "app_110",
+    "candidate_id": "cand_110",
+    "job_id": "job_19",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T08:04:34.275249"
+  },
+  {
+    "id": "app_111",
+    "candidate_id": "cand_111",
+    "job_id": "job_17",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-04T18:00:36.139155"
+  },
+  {
+    "id": "app_112",
+    "candidate_id": "cand_112",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-23T17:16:32.813729"
+  },
+  {
+    "id": "app_113",
+    "candidate_id": "cand_113",
+    "job_id": "job_1",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-21T20:40:22.179396"
+  },
+  {
+    "id": "app_114",
+    "candidate_id": "cand_114",
+    "job_id": "job_15",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-01T17:21:13.011949"
+  },
+  {
+    "id": "app_115",
+    "candidate_id": "cand_115",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-02T22:58:17.475242"
+  },
+  {
+    "id": "app_116",
+    "candidate_id": "cand_116",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T22:16:08.311707"
+  },
+  {
+    "id": "app_117",
+    "candidate_id": "cand_117",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-27T05:02:49.018142"
+  },
+  {
+    "id": "app_118",
+    "candidate_id": "cand_118",
+    "job_id": "job_1",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T03:59:59.887571"
+  },
+  {
+    "id": "app_119",
+    "candidate_id": "cand_119",
+    "job_id": "job_16",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T08:52:25.670015"
+  },
+  {
+    "id": "app_120",
+    "candidate_id": "cand_120",
+    "job_id": "job_15",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-25T17:14:33.928059"
+  },
+  {
+    "id": "app_121",
+    "candidate_id": "cand_121",
+    "job_id": "job_18",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-22T14:38:27.370183"
+  },
+  {
+    "id": "app_122",
+    "candidate_id": "cand_122",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T14:02:57.282471"
+  },
+  {
+    "id": "app_123",
+    "candidate_id": "cand_123",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-26T23:51:27.858222"
+  },
+  {
+    "id": "app_124",
+    "candidate_id": "cand_124",
+    "job_id": "job_5",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T19:33:46.214247"
+  },
+  {
+    "id": "app_125",
+    "candidate_id": "cand_125",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-11T07:22:57.527868"
+  },
+  {
+    "id": "app_126",
+    "candidate_id": "cand_126",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-28T02:03:56.668547"
+  },
+  {
+    "id": "app_127",
+    "candidate_id": "cand_127",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-23T00:31:09.694713"
+  },
+  {
+    "id": "app_128",
+    "candidate_id": "cand_128",
+    "job_id": "job_11",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T21:04:18.864872"
+  },
+  {
+    "id": "app_129",
+    "candidate_id": "cand_129",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-02T08:04:49.952643"
+  },
+  {
+    "id": "app_130",
+    "candidate_id": "cand_130",
+    "job_id": "job_4",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T22:50:23.464189"
+  },
+  {
+    "id": "app_131",
+    "candidate_id": "cand_131",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T09:51:31.773955"
+  },
+  {
+    "id": "app_132",
+    "candidate_id": "cand_132",
+    "job_id": "job_18",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-29T00:46:54.542377"
+  },
+  {
+    "id": "app_133",
+    "candidate_id": "cand_133",
+    "job_id": "job_20",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T09:19:46.548536"
+  },
+  {
+    "id": "app_134",
+    "candidate_id": "cand_134",
+    "job_id": "job_14",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-17T23:37:02.062529"
+  },
+  {
+    "id": "app_135",
+    "candidate_id": "cand_135",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-03T11:23:35.945177"
+  },
+  {
+    "id": "app_136",
+    "candidate_id": "cand_136",
+    "job_id": "job_6",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-08T12:54:50.073319"
+  },
+  {
+    "id": "app_137",
+    "candidate_id": "cand_137",
+    "job_id": "job_5",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T21:54:55.756021"
+  },
+  {
+    "id": "app_138",
+    "candidate_id": "cand_138",
+    "job_id": "job_15",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-13T08:28:16.805669"
+  },
+  {
+    "id": "app_139",
+    "candidate_id": "cand_139",
+    "job_id": "job_10",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T22:11:25.659502"
+  },
+  {
+    "id": "app_140",
+    "candidate_id": "cand_140",
+    "job_id": "job_16",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T23:29:53.620065"
+  },
+  {
+    "id": "app_141",
+    "candidate_id": "cand_141",
+    "job_id": "job_1",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-29T23:13:18.321741"
+  },
+  {
+    "id": "app_142",
+    "candidate_id": "cand_142",
+    "job_id": "job_2",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-01T23:14:12.211227"
+  },
+  {
+    "id": "app_143",
+    "candidate_id": "cand_143",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T18:26:49.503599"
+  },
+  {
+    "id": "app_144",
+    "candidate_id": "cand_144",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-04T11:10:22.293497"
+  },
+  {
+    "id": "app_145",
+    "candidate_id": "cand_145",
+    "job_id": "job_19",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T08:30:34.889425"
+  },
+  {
+    "id": "app_146",
+    "candidate_id": "cand_146",
+    "job_id": "job_7",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T05:42:49.380386"
+  },
+  {
+    "id": "app_147",
+    "candidate_id": "cand_147",
+    "job_id": "job_6",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-18T03:49:59.981022"
+  },
+  {
+    "id": "app_148",
+    "candidate_id": "cand_148",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-21T08:39:28.784822"
+  },
+  {
+    "id": "app_149",
+    "candidate_id": "cand_149",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-14T23:27:00.917828"
+  },
+  {
+    "id": "app_150",
+    "candidate_id": "cand_150",
+    "job_id": "job_9",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-16T21:46:44.687167"
+  },
+  {
+    "id": "app_151",
+    "candidate_id": "cand_151",
+    "job_id": "job_1",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T21:04:09.116637"
+  },
+  {
+    "id": "app_152",
+    "candidate_id": "cand_152",
+    "job_id": "job_15",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-12T08:07:08.196514"
+  },
+  {
+    "id": "app_153",
+    "candidate_id": "cand_153",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T02:51:51.110196"
+  },
+  {
+    "id": "app_154",
+    "candidate_id": "cand_154",
+    "job_id": "job_18",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-25T06:40:35.513010"
+  },
+  {
+    "id": "app_155",
+    "candidate_id": "cand_155",
+    "job_id": "job_14",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-19T07:57:03.493103"
+  },
+  {
+    "id": "app_156",
+    "candidate_id": "cand_156",
+    "job_id": "job_12",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-28T05:05:47.426131"
+  },
+  {
+    "id": "app_157",
+    "candidate_id": "cand_157",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-16T19:03:02.982021"
+  },
+  {
+    "id": "app_158",
+    "candidate_id": "cand_158",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T07:15:45.734712"
+  },
+  {
+    "id": "app_159",
+    "candidate_id": "cand_159",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T03:43:18.824010"
+  },
+  {
+    "id": "app_160",
+    "candidate_id": "cand_160",
+    "job_id": "job_5",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-13T11:26:41.354182"
+  },
+  {
+    "id": "app_161",
+    "candidate_id": "cand_161",
+    "job_id": "job_8",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-05T23:22:20.457606"
+  },
+  {
+    "id": "app_162",
+    "candidate_id": "cand_162",
+    "job_id": "job_4",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-08T10:07:41.206613"
+  },
+  {
+    "id": "app_163",
+    "candidate_id": "cand_163",
+    "job_id": "job_20",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T16:15:35.794271"
+  },
+  {
+    "id": "app_164",
+    "candidate_id": "cand_164",
+    "job_id": "job_1",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-05T16:47:25.063608"
+  },
+  {
+    "id": "app_165",
+    "candidate_id": "cand_165",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-05T19:55:22.620627"
+  },
+  {
+    "id": "app_166",
+    "candidate_id": "cand_166",
+    "job_id": "job_19",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T07:00:38.553956"
+  },
+  {
+    "id": "app_167",
+    "candidate_id": "cand_167",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T01:26:36.898508"
+  },
+  {
+    "id": "app_168",
+    "candidate_id": "cand_168",
+    "job_id": "job_18",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T16:14:24.115385"
+  },
+  {
+    "id": "app_169",
+    "candidate_id": "cand_169",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-05T00:51:57.694313"
+  },
+  {
+    "id": "app_170",
+    "candidate_id": "cand_170",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-13T17:06:51.483607"
+  },
+  {
+    "id": "app_171",
+    "candidate_id": "cand_171",
+    "job_id": "job_5",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-29T19:58:39.144336"
+  },
+  {
+    "id": "app_172",
+    "candidate_id": "cand_172",
+    "job_id": "job_14",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T23:14:56.121575"
+  },
+  {
+    "id": "app_173",
+    "candidate_id": "cand_173",
+    "job_id": "job_7",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T05:23:40.419209"
+  },
+  {
+    "id": "app_174",
+    "candidate_id": "cand_174",
+    "job_id": "job_4",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-27T04:36:37.779883"
+  },
+  {
+    "id": "app_175",
+    "candidate_id": "cand_175",
+    "job_id": "job_20",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-09T22:05:29.937489"
+  },
+  {
+    "id": "app_176",
+    "candidate_id": "cand_176",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-28T19:38:38.449587"
+  },
+  {
+    "id": "app_177",
+    "candidate_id": "cand_177",
+    "job_id": "job_6",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T00:16:42.216909"
+  },
+  {
+    "id": "app_178",
+    "candidate_id": "cand_178",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T11:00:23.494322"
+  },
+  {
+    "id": "app_179",
+    "candidate_id": "cand_179",
+    "job_id": "job_11",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-19T01:15:36.169918"
+  },
+  {
+    "id": "app_180",
+    "candidate_id": "cand_180",
+    "job_id": "job_3",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-30T10:47:36.973502"
+  },
+  {
+    "id": "app_181",
+    "candidate_id": "cand_181",
+    "job_id": "job_17",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T08:26:21.385399"
+  },
+  {
+    "id": "app_182",
+    "candidate_id": "cand_182",
+    "job_id": "job_10",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-17T20:31:21.744559"
+  },
+  {
+    "id": "app_183",
+    "candidate_id": "cand_183",
+    "job_id": "job_5",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T02:25:37.796834"
+  },
+  {
+    "id": "app_184",
+    "candidate_id": "cand_184",
+    "job_id": "job_8",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-08T11:29:00.080690"
+  },
+  {
+    "id": "app_185",
+    "candidate_id": "cand_185",
+    "job_id": "job_2",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T08:16:14.279405"
+  },
+  {
+    "id": "app_186",
+    "candidate_id": "cand_186",
+    "job_id": "job_13",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-08T17:24:40.530655"
+  },
+  {
+    "id": "app_187",
+    "candidate_id": "cand_187",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-05T12:10:26.528964"
+  },
+  {
+    "id": "app_188",
+    "candidate_id": "cand_188",
+    "job_id": "job_19",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-14T14:21:19.443276"
+  },
+  {
+    "id": "app_189",
+    "candidate_id": "cand_189",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-06T06:36:07.266120"
+  },
+  {
+    "id": "app_190",
+    "candidate_id": "cand_190",
+    "job_id": "job_5",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T03:30:15.707672"
+  },
+  {
+    "id": "app_191",
+    "candidate_id": "cand_191",
+    "job_id": "job_3",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-10T04:55:35.851444"
+  },
+  {
+    "id": "app_192",
+    "candidate_id": "cand_192",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-13T05:30:03.753993"
+  },
+  {
+    "id": "app_193",
+    "candidate_id": "cand_193",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-30T15:05:45.012942"
+  },
+  {
+    "id": "app_194",
+    "candidate_id": "cand_194",
+    "job_id": "job_10",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T08:30:56.289062"
+  },
+  {
+    "id": "app_195",
+    "candidate_id": "cand_195",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-05T13:33:02.821578"
+  },
+  {
+    "id": "app_196",
+    "candidate_id": "cand_196",
+    "job_id": "job_2",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-13T18:31:43.724653"
+  },
+  {
+    "id": "app_197",
+    "candidate_id": "cand_197",
+    "job_id": "job_4",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-30T00:11:19.891492"
+  },
+  {
+    "id": "app_198",
+    "candidate_id": "cand_198",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-25T19:30:02.740979"
+  },
+  {
+    "id": "app_199",
+    "candidate_id": "cand_199",
+    "job_id": "job_11",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T07:28:15.158437"
+  },
+  {
+    "id": "app_200",
+    "candidate_id": "cand_200",
+    "job_id": "job_18",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-28T05:51:58.892758"
+  },
+  {
+    "id": "app_201",
+    "candidate_id": "cand_201",
+    "job_id": "job_5",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T01:35:51.206294"
+  },
+  {
+    "id": "app_202",
+    "candidate_id": "cand_202",
+    "job_id": "job_13",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T03:01:16.829430"
+  },
+  {
+    "id": "app_203",
+    "candidate_id": "cand_203",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T11:54:02.960875"
+  },
+  {
+    "id": "app_204",
+    "candidate_id": "cand_204",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-24T20:58:14.968482"
+  },
+  {
+    "id": "app_205",
+    "candidate_id": "cand_205",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T16:26:13.113103"
+  },
+  {
+    "id": "app_206",
+    "candidate_id": "cand_206",
+    "job_id": "job_17",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-04T00:03:28.693869"
+  },
+  {
+    "id": "app_207",
+    "candidate_id": "cand_207",
+    "job_id": "job_5",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T13:01:19.581367"
+  },
+  {
+    "id": "app_208",
+    "candidate_id": "cand_208",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-14T09:15:41.573659"
+  },
+  {
+    "id": "app_209",
+    "candidate_id": "cand_209",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-28T05:35:37.863093"
+  },
+  {
+    "id": "app_210",
+    "candidate_id": "cand_210",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T18:11:08.979367"
+  },
+  {
+    "id": "app_211",
+    "candidate_id": "cand_211",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-15T10:34:17.964977"
+  },
+  {
+    "id": "app_212",
+    "candidate_id": "cand_212",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T14:12:30.775537"
+  },
+  {
+    "id": "app_213",
+    "candidate_id": "cand_213",
+    "job_id": "job_17",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T13:41:25.900228"
+  },
+  {
+    "id": "app_214",
+    "candidate_id": "cand_214",
+    "job_id": "job_14",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T20:56:55.331487"
+  },
+  {
+    "id": "app_215",
+    "candidate_id": "cand_215",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-08T14:12:38.615963"
+  },
+  {
+    "id": "app_216",
+    "candidate_id": "cand_216",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T02:30:11.289595"
+  },
+  {
+    "id": "app_217",
+    "candidate_id": "cand_217",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T14:01:12.477074"
+  },
+  {
+    "id": "app_218",
+    "candidate_id": "cand_218",
+    "job_id": "job_18",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-29T10:34:27.522156"
+  },
+  {
+    "id": "app_219",
+    "candidate_id": "cand_219",
+    "job_id": "job_2",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-08T15:32:53.477707"
+  },
+  {
+    "id": "app_220",
+    "candidate_id": "cand_220",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-02T01:46:53.354080"
+  },
+  {
+    "id": "app_221",
+    "candidate_id": "cand_221",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T16:36:55.770583"
+  },
+  {
+    "id": "app_222",
+    "candidate_id": "cand_222",
+    "job_id": "job_12",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-29T19:11:41.155952"
+  },
+  {
+    "id": "app_223",
+    "candidate_id": "cand_223",
+    "job_id": "job_2",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-24T11:55:13.393232"
+  },
+  {
+    "id": "app_224",
+    "candidate_id": "cand_224",
+    "job_id": "job_12",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T08:58:16.874567"
+  },
+  {
+    "id": "app_225",
+    "candidate_id": "cand_225",
+    "job_id": "job_5",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-01T11:42:25.598893"
+  },
+  {
+    "id": "app_226",
+    "candidate_id": "cand_226",
+    "job_id": "job_15",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-25T05:01:22.827530"
+  },
+  {
+    "id": "app_227",
+    "candidate_id": "cand_227",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-09T07:06:59.376658"
+  },
+  {
+    "id": "app_228",
+    "candidate_id": "cand_228",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-04T10:11:04.555028"
+  },
+  {
+    "id": "app_229",
+    "candidate_id": "cand_229",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T05:10:19.873202"
+  },
+  {
+    "id": "app_230",
+    "candidate_id": "cand_230",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-24T15:41:46.072079"
+  },
+  {
+    "id": "app_231",
+    "candidate_id": "cand_231",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T01:38:51.564983"
+  },
+  {
+    "id": "app_232",
+    "candidate_id": "cand_232",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-21T17:04:59.756381"
+  },
+  {
+    "id": "app_233",
+    "candidate_id": "cand_233",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-14T15:50:54.313605"
+  },
+  {
+    "id": "app_234",
+    "candidate_id": "cand_234",
+    "job_id": "job_14",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-02T19:53:18.446591"
+  },
+  {
+    "id": "app_235",
+    "candidate_id": "cand_235",
+    "job_id": "job_12",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-28T18:51:34.833264"
+  },
+  {
+    "id": "app_236",
+    "candidate_id": "cand_236",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T04:01:31.235043"
+  },
+  {
+    "id": "app_237",
+    "candidate_id": "cand_237",
+    "job_id": "job_19",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T13:19:02.627116"
+  },
+  {
+    "id": "app_238",
+    "candidate_id": "cand_238",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-14T22:48:08.672439"
+  },
+  {
+    "id": "app_239",
+    "candidate_id": "cand_239",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-04T08:32:12.287446"
+  },
+  {
+    "id": "app_240",
+    "candidate_id": "cand_240",
+    "job_id": "job_15",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-18T06:25:26.613230"
+  },
+  {
+    "id": "app_241",
+    "candidate_id": "cand_241",
+    "job_id": "job_15",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T04:15:13.697895"
+  },
+  {
+    "id": "app_242",
+    "candidate_id": "cand_242",
+    "job_id": "job_11",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T12:19:09.295552"
+  },
+  {
+    "id": "app_243",
+    "candidate_id": "cand_243",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T02:07:07.255806"
+  },
+  {
+    "id": "app_244",
+    "candidate_id": "cand_244",
+    "job_id": "job_4",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T09:06:52.731168"
+  },
+  {
+    "id": "app_245",
+    "candidate_id": "cand_245",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T00:08:34.879595"
+  },
+  {
+    "id": "app_246",
+    "candidate_id": "cand_246",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-06T10:38:46.966906"
+  },
+  {
+    "id": "app_247",
+    "candidate_id": "cand_247",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T23:31:20.802575"
+  },
+  {
+    "id": "app_248",
+    "candidate_id": "cand_248",
+    "job_id": "job_19",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-07T19:32:40.586216"
+  },
+  {
+    "id": "app_249",
+    "candidate_id": "cand_249",
+    "job_id": "job_6",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-10T20:00:40.779525"
+  },
+  {
+    "id": "app_250",
+    "candidate_id": "cand_250",
+    "job_id": "job_10",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T12:44:03.843593"
+  },
+  {
+    "id": "app_251",
+    "candidate_id": "cand_251",
+    "job_id": "job_20",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-04T22:48:16.631357"
+  },
+  {
+    "id": "app_252",
+    "candidate_id": "cand_252",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-12T20:49:12.656062"
+  },
+  {
+    "id": "app_253",
+    "candidate_id": "cand_253",
+    "job_id": "job_19",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-20T22:15:48.563836"
+  },
+  {
+    "id": "app_254",
+    "candidate_id": "cand_254",
+    "job_id": "job_18",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-21T18:36:32.409840"
+  },
+  {
+    "id": "app_255",
+    "candidate_id": "cand_255",
+    "job_id": "job_10",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T16:23:07.611727"
+  },
+  {
+    "id": "app_256",
+    "candidate_id": "cand_256",
+    "job_id": "job_11",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-23T18:14:43.472139"
+  },
+  {
+    "id": "app_257",
+    "candidate_id": "cand_257",
+    "job_id": "job_13",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-16T03:38:28.579301"
+  },
+  {
+    "id": "app_258",
+    "candidate_id": "cand_258",
+    "job_id": "job_5",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-26T00:56:09.808610"
+  },
+  {
+    "id": "app_259",
+    "candidate_id": "cand_259",
+    "job_id": "job_6",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-01T14:48:09.381329"
+  },
+  {
+    "id": "app_260",
+    "candidate_id": "cand_260",
+    "job_id": "job_15",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T09:53:15.062893"
+  },
+  {
+    "id": "app_261",
+    "candidate_id": "cand_261",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T19:59:18.940612"
+  },
+  {
+    "id": "app_262",
+    "candidate_id": "cand_262",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-23T20:10:48.362436"
+  },
+  {
+    "id": "app_263",
+    "candidate_id": "cand_263",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-05T14:44:08.332547"
+  },
+  {
+    "id": "app_264",
+    "candidate_id": "cand_264",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-04T04:57:50.713267"
+  },
+  {
+    "id": "app_265",
+    "candidate_id": "cand_265",
+    "job_id": "job_20",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-07T14:15:27.288451"
+  },
+  {
+    "id": "app_266",
+    "candidate_id": "cand_266",
+    "job_id": "job_12",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-15T05:33:46.983395"
+  },
+  {
+    "id": "app_267",
+    "candidate_id": "cand_267",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-01T20:07:59.416929"
+  },
+  {
+    "id": "app_268",
+    "candidate_id": "cand_268",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-19T19:00:46.610307"
+  },
+  {
+    "id": "app_269",
+    "candidate_id": "cand_269",
+    "job_id": "job_17",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-13T11:05:43.029022"
+  },
+  {
+    "id": "app_270",
+    "candidate_id": "cand_270",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-21T16:31:00.352265"
+  },
+  {
+    "id": "app_271",
+    "candidate_id": "cand_271",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T09:08:23.563336"
+  },
+  {
+    "id": "app_272",
+    "candidate_id": "cand_272",
+    "job_id": "job_2",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T03:21:28.516609"
+  },
+  {
+    "id": "app_273",
+    "candidate_id": "cand_273",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-20T12:04:32.891722"
+  },
+  {
+    "id": "app_274",
+    "candidate_id": "cand_274",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-01T16:41:10.656905"
+  },
+  {
+    "id": "app_275",
+    "candidate_id": "cand_275",
+    "job_id": "job_2",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T00:36:30.219542"
+  },
+  {
+    "id": "app_276",
+    "candidate_id": "cand_276",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T01:33:42.346767"
+  },
+  {
+    "id": "app_277",
+    "candidate_id": "cand_277",
+    "job_id": "job_9",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-29T00:14:41.745577"
+  },
+  {
+    "id": "app_278",
+    "candidate_id": "cand_278",
+    "job_id": "job_10",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T14:08:33.140159"
+  },
+  {
+    "id": "app_279",
+    "candidate_id": "cand_279",
+    "job_id": "job_9",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-01T15:56:04.653425"
+  },
+  {
+    "id": "app_280",
+    "candidate_id": "cand_280",
+    "job_id": "job_12",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-07T02:36:48.406773"
+  },
+  {
+    "id": "app_281",
+    "candidate_id": "cand_281",
+    "job_id": "job_9",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T15:30:39.303809"
+  },
+  {
+    "id": "app_282",
+    "candidate_id": "cand_282",
+    "job_id": "job_9",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-12T23:30:27.254164"
+  },
+  {
+    "id": "app_283",
+    "candidate_id": "cand_283",
+    "job_id": "job_17",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T03:19:22.316702"
+  },
+  {
+    "id": "app_284",
+    "candidate_id": "cand_284",
+    "job_id": "job_5",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T11:46:45.951181"
+  },
+  {
+    "id": "app_285",
+    "candidate_id": "cand_285",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-01T10:54:50.203517"
+  },
+  {
+    "id": "app_286",
+    "candidate_id": "cand_286",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-15T02:46:11.873779"
+  },
+  {
+    "id": "app_287",
+    "candidate_id": "cand_287",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-19T19:55:33.523675"
+  },
+  {
+    "id": "app_288",
+    "candidate_id": "cand_288",
+    "job_id": "job_10",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-08T05:24:16.889837"
+  },
+  {
+    "id": "app_289",
+    "candidate_id": "cand_289",
+    "job_id": "job_15",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-17T22:54:17.376770"
+  },
+  {
+    "id": "app_290",
+    "candidate_id": "cand_290",
+    "job_id": "job_9",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T18:53:41.291952"
+  },
+  {
+    "id": "app_291",
+    "candidate_id": "cand_291",
+    "job_id": "job_1",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-20T18:29:52.058716"
+  },
+  {
+    "id": "app_292",
+    "candidate_id": "cand_292",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-24T12:31:22.127452"
+  },
+  {
+    "id": "app_293",
+    "candidate_id": "cand_293",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T18:34:10.616884"
+  },
+  {
+    "id": "app_294",
+    "candidate_id": "cand_294",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T19:40:44.277662"
+  },
+  {
+    "id": "app_295",
+    "candidate_id": "cand_295",
+    "job_id": "job_2",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-19T08:52:04.263710"
+  },
+  {
+    "id": "app_296",
+    "candidate_id": "cand_296",
+    "job_id": "job_10",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T10:48:05.994385"
+  },
+  {
+    "id": "app_297",
+    "candidate_id": "cand_297",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T04:15:13.036710"
+  },
+  {
+    "id": "app_298",
+    "candidate_id": "cand_298",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-05T01:39:52.154080"
+  },
+  {
+    "id": "app_299",
+    "candidate_id": "cand_299",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-21T09:43:31.798192"
+  },
+  {
+    "id": "app_300",
+    "candidate_id": "cand_300",
+    "job_id": "job_17",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-02T09:40:10.167352"
+  },
+  {
+    "id": "app_301",
+    "candidate_id": "cand_301",
+    "job_id": "job_7",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-18T05:27:16.723990"
+  },
+  {
+    "id": "app_302",
+    "candidate_id": "cand_302",
+    "job_id": "job_14",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-25T04:39:39.368880"
+  },
+  {
+    "id": "app_303",
+    "candidate_id": "cand_303",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-15T10:08:45.618607"
+  },
+  {
+    "id": "app_304",
+    "candidate_id": "cand_304",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-01T12:58:33.484854"
+  },
+  {
+    "id": "app_305",
+    "candidate_id": "cand_305",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-15T14:54:11.375095"
+  },
+  {
+    "id": "app_306",
+    "candidate_id": "cand_306",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-23T02:17:34.800696"
+  },
+  {
+    "id": "app_307",
+    "candidate_id": "cand_307",
+    "job_id": "job_12",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-22T14:46:45.001013"
+  },
+  {
+    "id": "app_308",
+    "candidate_id": "cand_308",
+    "job_id": "job_1",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T04:23:25.660236"
+  },
+  {
+    "id": "app_309",
+    "candidate_id": "cand_309",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-18T18:19:37.618935"
+  },
+  {
+    "id": "app_310",
+    "candidate_id": "cand_310",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-01T23:44:42.268315"
+  },
+  {
+    "id": "app_311",
+    "candidate_id": "cand_311",
+    "job_id": "job_4",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-20T08:35:44.519263"
+  },
+  {
+    "id": "app_312",
+    "candidate_id": "cand_312",
+    "job_id": "job_15",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-13T15:50:29.999763"
+  },
+  {
+    "id": "app_313",
+    "candidate_id": "cand_313",
+    "job_id": "job_10",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-19T18:18:26.039413"
+  },
+  {
+    "id": "app_314",
+    "candidate_id": "cand_314",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-08T04:01:03.591738"
+  },
+  {
+    "id": "app_315",
+    "candidate_id": "cand_315",
+    "job_id": "job_18",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T10:38:54.038330"
+  },
+  {
+    "id": "app_316",
+    "candidate_id": "cand_316",
+    "job_id": "job_12",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T19:47:47.704267"
+  },
+  {
+    "id": "app_317",
+    "candidate_id": "cand_317",
+    "job_id": "job_10",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-27T22:00:54.189570"
+  },
+  {
+    "id": "app_318",
+    "candidate_id": "cand_318",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-03T05:30:48.909835"
+  },
+  {
+    "id": "app_319",
+    "candidate_id": "cand_319",
+    "job_id": "job_7",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T10:54:55.172295"
+  },
+  {
+    "id": "app_320",
+    "candidate_id": "cand_320",
+    "job_id": "job_7",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-12T07:23:53.501063"
+  },
+  {
+    "id": "app_321",
+    "candidate_id": "cand_321",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-07T14:08:44.538748"
+  },
+  {
+    "id": "app_322",
+    "candidate_id": "cand_322",
+    "job_id": "job_1",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T18:05:48.162604"
+  },
+  {
+    "id": "app_323",
+    "candidate_id": "cand_323",
+    "job_id": "job_8",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-24T13:31:58.814177"
+  },
+  {
+    "id": "app_324",
+    "candidate_id": "cand_324",
+    "job_id": "job_10",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T05:57:40.373538"
+  },
+  {
+    "id": "app_325",
+    "candidate_id": "cand_325",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-24T21:04:06.362203"
+  },
+  {
+    "id": "app_326",
+    "candidate_id": "cand_326",
+    "job_id": "job_7",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-03T12:44:02.321428"
+  },
+  {
+    "id": "app_327",
+    "candidate_id": "cand_327",
+    "job_id": "job_19",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-20T19:33:13.790982"
+  },
+  {
+    "id": "app_328",
+    "candidate_id": "cand_328",
+    "job_id": "job_8",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-04T09:11:17.003773"
+  },
+  {
+    "id": "app_329",
+    "candidate_id": "cand_329",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-05T17:28:57.034992"
+  },
+  {
+    "id": "app_330",
+    "candidate_id": "cand_330",
+    "job_id": "job_6",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-21T12:44:31.712903"
+  },
+  {
+    "id": "app_331",
+    "candidate_id": "cand_331",
+    "job_id": "job_2",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-29T01:49:44.025807"
+  },
+  {
+    "id": "app_332",
+    "candidate_id": "cand_332",
+    "job_id": "job_15",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T05:26:37.961304"
+  },
+  {
+    "id": "app_333",
+    "candidate_id": "cand_333",
+    "job_id": "job_16",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T05:53:57.392505"
+  },
+  {
+    "id": "app_334",
+    "candidate_id": "cand_334",
+    "job_id": "job_18",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T13:03:27.863769"
+  },
+  {
+    "id": "app_335",
+    "candidate_id": "cand_335",
+    "job_id": "job_6",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-08T11:27:35.705825"
+  },
+  {
+    "id": "app_336",
+    "candidate_id": "cand_336",
+    "job_id": "job_12",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-30T06:39:50.739250"
+  },
+  {
+    "id": "app_337",
+    "candidate_id": "cand_337",
+    "job_id": "job_10",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-29T14:12:13.970093"
+  },
+  {
+    "id": "app_338",
+    "candidate_id": "cand_338",
+    "job_id": "job_18",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-26T08:24:29.740955"
+  },
+  {
+    "id": "app_339",
+    "candidate_id": "cand_339",
+    "job_id": "job_11",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-15T05:54:03.929390"
+  },
+  {
+    "id": "app_340",
+    "candidate_id": "cand_340",
+    "job_id": "job_19",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-03T14:27:20.244189"
+  },
+  {
+    "id": "app_341",
+    "candidate_id": "cand_341",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-23T01:39:41.371024"
+  },
+  {
+    "id": "app_342",
+    "candidate_id": "cand_342",
+    "job_id": "job_13",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-07T15:24:21.947879"
+  },
+  {
+    "id": "app_343",
+    "candidate_id": "cand_343",
+    "job_id": "job_18",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-22T01:54:36.521641"
+  },
+  {
+    "id": "app_344",
+    "candidate_id": "cand_344",
+    "job_id": "job_17",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-20T00:20:59.182242"
+  },
+  {
+    "id": "app_345",
+    "candidate_id": "cand_345",
+    "job_id": "job_20",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-08T05:38:07.567201"
+  },
+  {
+    "id": "app_346",
+    "candidate_id": "cand_346",
+    "job_id": "job_15",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-08T23:00:08.538536"
+  },
+  {
+    "id": "app_347",
+    "candidate_id": "cand_347",
+    "job_id": "job_13",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-29T17:36:14.134933"
+  },
+  {
+    "id": "app_348",
+    "candidate_id": "cand_348",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-21T14:20:09.264813"
+  },
+  {
+    "id": "app_349",
+    "candidate_id": "cand_349",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-20T02:44:11.740328"
+  },
+  {
+    "id": "app_350",
+    "candidate_id": "cand_350",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T05:18:00.550571"
+  },
+  {
+    "id": "app_351",
+    "candidate_id": "cand_351",
+    "job_id": "job_13",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-21T10:34:40.677984"
+  },
+  {
+    "id": "app_352",
+    "candidate_id": "cand_352",
+    "job_id": "job_8",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-24T13:32:28.989114"
+  },
+  {
+    "id": "app_353",
+    "candidate_id": "cand_353",
+    "job_id": "job_3",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-02T11:54:07.903481"
+  },
+  {
+    "id": "app_354",
+    "candidate_id": "cand_354",
+    "job_id": "job_8",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-21T17:38:35.146900"
+  },
+  {
+    "id": "app_355",
+    "candidate_id": "cand_355",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-20T21:37:28.814572"
+  },
+  {
+    "id": "app_356",
+    "candidate_id": "cand_356",
+    "job_id": "job_20",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-11T15:55:54.127246"
+  },
+  {
+    "id": "app_357",
+    "candidate_id": "cand_357",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-09T08:15:28.815790"
+  },
+  {
+    "id": "app_358",
+    "candidate_id": "cand_358",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-12T12:38:05.739018"
+  },
+  {
+    "id": "app_359",
+    "candidate_id": "cand_359",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-18T19:53:06.905912"
+  },
+  {
+    "id": "app_360",
+    "candidate_id": "cand_360",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-30T19:45:01.431241"
+  },
+  {
+    "id": "app_361",
+    "candidate_id": "cand_361",
+    "job_id": "job_14",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-23T20:55:10.235638"
+  },
+  {
+    "id": "app_362",
+    "candidate_id": "cand_362",
+    "job_id": "job_14",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T03:34:32.478582"
+  },
+  {
+    "id": "app_363",
+    "candidate_id": "cand_363",
+    "job_id": "job_3",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-07T04:30:04.335165"
+  },
+  {
+    "id": "app_364",
+    "candidate_id": "cand_364",
+    "job_id": "job_13",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-18T15:59:58.895714"
+  },
+  {
+    "id": "app_365",
+    "candidate_id": "cand_365",
+    "job_id": "job_18",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T09:34:51.073658"
+  },
+  {
+    "id": "app_366",
+    "candidate_id": "cand_366",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T10:06:16.692795"
+  },
+  {
+    "id": "app_367",
+    "candidate_id": "cand_367",
+    "job_id": "job_3",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-15T15:06:43.103457"
+  },
+  {
+    "id": "app_368",
+    "candidate_id": "cand_368",
+    "job_id": "job_16",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-15T18:49:56.358152"
+  },
+  {
+    "id": "app_369",
+    "candidate_id": "cand_369",
+    "job_id": "job_1",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T09:02:39.260345"
+  },
+  {
+    "id": "app_370",
+    "candidate_id": "cand_370",
+    "job_id": "job_17",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-14T10:15:19.172054"
+  },
+  {
+    "id": "app_371",
+    "candidate_id": "cand_371",
+    "job_id": "job_6",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-24T09:26:23.653188"
+  },
+  {
+    "id": "app_372",
+    "candidate_id": "cand_372",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-09T00:06:55.866221"
+  },
+  {
+    "id": "app_373",
+    "candidate_id": "cand_373",
+    "job_id": "job_3",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-21T23:30:53.045041"
+  },
+  {
+    "id": "app_374",
+    "candidate_id": "cand_374",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-25T09:20:38.612793"
+  },
+  {
+    "id": "app_375",
+    "candidate_id": "cand_375",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-05T20:22:14.872528"
+  },
+  {
+    "id": "app_376",
+    "candidate_id": "cand_376",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-01T00:12:51.967142"
+  },
+  {
+    "id": "app_377",
+    "candidate_id": "cand_377",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-12T06:46:11.913906"
+  },
+  {
+    "id": "app_378",
+    "candidate_id": "cand_378",
+    "job_id": "job_6",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-12T06:17:09.990271"
+  },
+  {
+    "id": "app_379",
+    "candidate_id": "cand_379",
+    "job_id": "job_2",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T07:49:00.190941"
+  },
+  {
+    "id": "app_380",
+    "candidate_id": "cand_380",
+    "job_id": "job_16",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-24T06:19:43.555305"
+  },
+  {
+    "id": "app_381",
+    "candidate_id": "cand_381",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-23T22:47:50.810340"
+  },
+  {
+    "id": "app_382",
+    "candidate_id": "cand_382",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-15T17:12:01.069667"
+  },
+  {
+    "id": "app_383",
+    "candidate_id": "cand_383",
+    "job_id": "job_12",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-18T23:08:52.610241"
+  },
+  {
+    "id": "app_384",
+    "candidate_id": "cand_384",
+    "job_id": "job_8",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-04T20:18:08.688328"
+  },
+  {
+    "id": "app_385",
+    "candidate_id": "cand_385",
+    "job_id": "job_4",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-08T08:32:20.855787"
+  },
+  {
+    "id": "app_386",
+    "candidate_id": "cand_386",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-11T04:45:34.546403"
+  },
+  {
+    "id": "app_387",
+    "candidate_id": "cand_387",
+    "job_id": "job_9",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-23T14:13:08.125197"
+  },
+  {
+    "id": "app_388",
+    "candidate_id": "cand_388",
+    "job_id": "job_17",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-01T03:45:28.902323"
+  },
+  {
+    "id": "app_389",
+    "candidate_id": "cand_389",
+    "job_id": "job_5",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-19T16:40:57.728823"
+  },
+  {
+    "id": "app_390",
+    "candidate_id": "cand_390",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-06T09:45:07.767060"
+  },
+  {
+    "id": "app_391",
+    "candidate_id": "cand_391",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-09T22:34:47.876560"
+  },
+  {
+    "id": "app_392",
+    "candidate_id": "cand_392",
+    "job_id": "job_16",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T15:42:55.038272"
+  },
+  {
+    "id": "app_393",
+    "candidate_id": "cand_393",
+    "job_id": "job_15",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-28T20:57:53.022045"
+  },
+  {
+    "id": "app_394",
+    "candidate_id": "cand_394",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-20T08:13:27.983481"
+  },
+  {
+    "id": "app_395",
+    "candidate_id": "cand_395",
+    "job_id": "job_19",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T18:56:46.922743"
+  },
+  {
+    "id": "app_396",
+    "candidate_id": "cand_396",
+    "job_id": "job_15",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-27T07:17:59.338230"
+  },
+  {
+    "id": "app_397",
+    "candidate_id": "cand_397",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-15T18:53:21.255300"
+  },
+  {
+    "id": "app_398",
+    "candidate_id": "cand_398",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T05:12:32.364009"
+  },
+  {
+    "id": "app_399",
+    "candidate_id": "cand_399",
+    "job_id": "job_2",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-20T19:15:59.773688"
+  },
+  {
+    "id": "app_400",
+    "candidate_id": "cand_400",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-01T10:28:01.016690"
+  },
+  {
+    "id": "app_401",
+    "candidate_id": "cand_401",
+    "job_id": "job_1",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-08T04:41:54.233119"
+  },
+  {
+    "id": "app_402",
+    "candidate_id": "cand_402",
+    "job_id": "job_16",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-08T07:37:17.673763"
+  },
+  {
+    "id": "app_403",
+    "candidate_id": "cand_403",
+    "job_id": "job_5",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-28T22:28:41.828669"
+  },
+  {
+    "id": "app_404",
+    "candidate_id": "cand_404",
+    "job_id": "job_20",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-21T20:56:30.529831"
+  },
+  {
+    "id": "app_405",
+    "candidate_id": "cand_405",
+    "job_id": "job_15",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-23T03:44:03.525055"
+  },
+  {
+    "id": "app_406",
+    "candidate_id": "cand_406",
+    "job_id": "job_12",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T19:52:01.590775"
+  },
+  {
+    "id": "app_407",
+    "candidate_id": "cand_407",
+    "job_id": "job_20",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-07T12:43:11.621227"
+  },
+  {
+    "id": "app_408",
+    "candidate_id": "cand_408",
+    "job_id": "job_10",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T19:33:09.336076"
+  },
+  {
+    "id": "app_409",
+    "candidate_id": "cand_409",
+    "job_id": "job_8",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-22T05:31:03.757353"
+  },
+  {
+    "id": "app_410",
+    "candidate_id": "cand_410",
+    "job_id": "job_1",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-03T19:22:47.225125"
+  },
+  {
+    "id": "app_411",
+    "candidate_id": "cand_411",
+    "job_id": "job_6",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-01T06:50:42.003815"
+  },
+  {
+    "id": "app_412",
+    "candidate_id": "cand_412",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T08:38:09.878510"
+  },
+  {
+    "id": "app_413",
+    "candidate_id": "cand_413",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-30T03:26:49.957901"
+  },
+  {
+    "id": "app_414",
+    "candidate_id": "cand_414",
+    "job_id": "job_5",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-02T18:42:24.935682"
+  },
+  {
+    "id": "app_415",
+    "candidate_id": "cand_415",
+    "job_id": "job_3",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-10T07:01:36.360656"
+  },
+  {
+    "id": "app_416",
+    "candidate_id": "cand_416",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-14T17:28:25.952618"
+  },
+  {
+    "id": "app_417",
+    "candidate_id": "cand_417",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T20:00:32.230877"
+  },
+  {
+    "id": "app_418",
+    "candidate_id": "cand_418",
+    "job_id": "job_17",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-08T21:47:39.100266"
+  },
+  {
+    "id": "app_419",
+    "candidate_id": "cand_419",
+    "job_id": "job_1",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-22T12:40:17.898870"
+  },
+  {
+    "id": "app_420",
+    "candidate_id": "cand_420",
+    "job_id": "job_3",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-30T18:49:19.183203"
+  },
+  {
+    "id": "app_421",
+    "candidate_id": "cand_421",
+    "job_id": "job_4",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-17T16:09:32.141402"
+  },
+  {
+    "id": "app_422",
+    "candidate_id": "cand_422",
+    "job_id": "job_8",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-17T10:10:50.138674"
+  },
+  {
+    "id": "app_423",
+    "candidate_id": "cand_423",
+    "job_id": "job_2",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T06:45:31.398244"
+  },
+  {
+    "id": "app_424",
+    "candidate_id": "cand_424",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-10T18:28:59.180178"
+  },
+  {
+    "id": "app_425",
+    "candidate_id": "cand_425",
+    "job_id": "job_17",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T08:39:45.625592"
+  },
+  {
+    "id": "app_426",
+    "candidate_id": "cand_426",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-14T08:15:56.846038"
+  },
+  {
+    "id": "app_427",
+    "candidate_id": "cand_427",
+    "job_id": "job_20",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-29T10:22:48.818913"
+  },
+  {
+    "id": "app_428",
+    "candidate_id": "cand_428",
+    "job_id": "job_18",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-14T21:14:47.404608"
+  },
+  {
+    "id": "app_429",
+    "candidate_id": "cand_429",
+    "job_id": "job_1",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-05T01:08:36.183227"
+  },
+  {
+    "id": "app_430",
+    "candidate_id": "cand_430",
+    "job_id": "job_7",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-02T09:43:39.423732"
+  },
+  {
+    "id": "app_431",
+    "candidate_id": "cand_431",
+    "job_id": "job_2",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-24T21:07:33.711931"
+  },
+  {
+    "id": "app_432",
+    "candidate_id": "cand_432",
+    "job_id": "job_19",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-13T04:30:19.644808"
+  },
+  {
+    "id": "app_433",
+    "candidate_id": "cand_433",
+    "job_id": "job_14",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-19T19:33:13.450979"
+  },
+  {
+    "id": "app_434",
+    "candidate_id": "cand_434",
+    "job_id": "job_11",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-14T14:03:16.165639"
+  },
+  {
+    "id": "app_435",
+    "candidate_id": "cand_435",
+    "job_id": "job_19",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-22T07:51:22.655636"
+  },
+  {
+    "id": "app_436",
+    "candidate_id": "cand_436",
+    "job_id": "job_7",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-30T08:30:26.535012"
+  },
+  {
+    "id": "app_437",
+    "candidate_id": "cand_437",
+    "job_id": "job_10",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-18T03:58:25.536558"
+  },
+  {
+    "id": "app_438",
+    "candidate_id": "cand_438",
+    "job_id": "job_12",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-27T00:54:33.149529"
+  },
+  {
+    "id": "app_439",
+    "candidate_id": "cand_439",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T21:27:38.079350"
+  },
+  {
+    "id": "app_440",
+    "candidate_id": "cand_440",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-06T10:51:01.895001"
+  },
+  {
+    "id": "app_441",
+    "candidate_id": "cand_441",
+    "job_id": "job_12",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T23:15:57.044228"
+  },
+  {
+    "id": "app_442",
+    "candidate_id": "cand_442",
+    "job_id": "job_3",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-15T00:50:55.673469"
+  },
+  {
+    "id": "app_443",
+    "candidate_id": "cand_443",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-17T12:48:34.809614"
+  },
+  {
+    "id": "app_444",
+    "candidate_id": "cand_444",
+    "job_id": "job_13",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-10T06:22:05.730271"
+  },
+  {
+    "id": "app_445",
+    "candidate_id": "cand_445",
+    "job_id": "job_9",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T20:33:29.370074"
+  },
+  {
+    "id": "app_446",
+    "candidate_id": "cand_446",
+    "job_id": "job_10",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-03T02:03:46.022762"
+  },
+  {
+    "id": "app_447",
+    "candidate_id": "cand_447",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-27T23:10:47.985641"
+  },
+  {
+    "id": "app_448",
+    "candidate_id": "cand_448",
+    "job_id": "job_1",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-30T07:38:11.368010"
+  },
+  {
+    "id": "app_449",
+    "candidate_id": "cand_449",
+    "job_id": "job_17",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-26T06:59:45.192318"
+  },
+  {
+    "id": "app_450",
+    "candidate_id": "cand_450",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-10T05:03:12.729819"
+  },
+  {
+    "id": "app_451",
+    "candidate_id": "cand_451",
+    "job_id": "job_4",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-16T06:08:14.052053"
+  },
+  {
+    "id": "app_452",
+    "candidate_id": "cand_452",
+    "job_id": "job_8",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-28T04:30:56.534045"
+  },
+  {
+    "id": "app_453",
+    "candidate_id": "cand_453",
+    "job_id": "job_12",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-26T20:21:40.596056"
+  },
+  {
+    "id": "app_454",
+    "candidate_id": "cand_454",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T21:20:46.569060"
+  },
+  {
+    "id": "app_455",
+    "candidate_id": "cand_455",
+    "job_id": "job_1",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-02T17:50:58.384839"
+  },
+  {
+    "id": "app_456",
+    "candidate_id": "cand_456",
+    "job_id": "job_11",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-25T09:35:05.232492"
+  },
+  {
+    "id": "app_457",
+    "candidate_id": "cand_457",
+    "job_id": "job_12",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T23:00:29.293539"
+  },
+  {
+    "id": "app_458",
+    "candidate_id": "cand_458",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-21T05:06:32.995324"
+  },
+  {
+    "id": "app_459",
+    "candidate_id": "cand_459",
+    "job_id": "job_11",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-02T09:49:43.391671"
+  },
+  {
+    "id": "app_460",
+    "candidate_id": "cand_460",
+    "job_id": "job_8",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-16T04:51:22.601798"
+  },
+  {
+    "id": "app_461",
+    "candidate_id": "cand_461",
+    "job_id": "job_6",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-17T20:26:36.867232"
+  },
+  {
+    "id": "app_462",
+    "candidate_id": "cand_462",
+    "job_id": "job_19",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-07T14:47:40.109030"
+  },
+  {
+    "id": "app_463",
+    "candidate_id": "cand_463",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-02T19:42:08.373561"
+  },
+  {
+    "id": "app_464",
+    "candidate_id": "cand_464",
+    "job_id": "job_3",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-21T00:52:40.308694"
+  },
+  {
+    "id": "app_465",
+    "candidate_id": "cand_465",
+    "job_id": "job_8",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-29T20:41:16.794000"
+  },
+  {
+    "id": "app_466",
+    "candidate_id": "cand_466",
+    "job_id": "job_14",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-06T01:10:25.452818"
+  },
+  {
+    "id": "app_467",
+    "candidate_id": "cand_467",
+    "job_id": "job_19",
+    "job_title": "Frontend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-04-15T12:04:50.390131"
+  },
+  {
+    "id": "app_468",
+    "candidate_id": "cand_468",
+    "job_id": "job_9",
+    "job_title": "Software Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-09T22:14:22.663094"
+  },
+  {
+    "id": "app_469",
+    "candidate_id": "cand_469",
+    "job_id": "job_3",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-05-10T18:52:12.688512"
+  },
+  {
+    "id": "app_470",
+    "candidate_id": "cand_470",
+    "job_id": "job_6",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-23T08:59:04.392483"
+  },
+  {
+    "id": "app_471",
+    "candidate_id": "cand_471",
+    "job_id": "job_18",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-22T06:51:01.204741"
+  },
+  {
+    "id": "app_472",
+    "candidate_id": "cand_472",
+    "job_id": "job_16",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T18:39:29.985677"
+  },
+  {
+    "id": "app_473",
+    "candidate_id": "cand_473",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T23:30:08.632561"
+  },
+  {
+    "id": "app_474",
+    "candidate_id": "cand_474",
+    "job_id": "job_16",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-19T13:45:12.578569"
+  },
+  {
+    "id": "app_475",
+    "candidate_id": "cand_475",
+    "job_id": "job_18",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-04-16T06:30:02.303578"
+  },
+  {
+    "id": "app_476",
+    "candidate_id": "cand_476",
+    "job_id": "job_9",
+    "job_title": "Platform Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-04-16T22:21:32.021882"
+  },
+  {
+    "id": "app_477",
+    "candidate_id": "cand_477",
+    "job_id": "job_18",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-30T20:33:02.188968"
+  },
+  {
+    "id": "app_478",
+    "candidate_id": "cand_478",
+    "job_id": "job_18",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-30T15:50:38.137413"
+  },
+  {
+    "id": "app_479",
+    "candidate_id": "cand_479",
+    "job_id": "job_2",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-13T12:17:25.547264"
+  },
+  {
+    "id": "app_480",
+    "candidate_id": "cand_480",
+    "job_id": "job_4",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-15T11:40:22.251429"
+  },
+  {
+    "id": "app_481",
+    "candidate_id": "cand_481",
+    "job_id": "job_2",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-20T12:29:37.109524"
+  },
+  {
+    "id": "app_482",
+    "candidate_id": "cand_482",
+    "job_id": "job_20",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-07T22:51:50.234429"
+  },
+  {
+    "id": "app_483",
+    "candidate_id": "cand_483",
+    "job_id": "job_13",
+    "job_title": "Backend Engineer",
+    "status": "offered",
+    "source": "Agency",
+    "created_at": "2025-05-05T07:50:09.853862"
+  },
+  {
+    "id": "app_484",
+    "candidate_id": "cand_484",
+    "job_id": "job_19",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-16T20:36:10.903066"
+  },
+  {
+    "id": "app_485",
+    "candidate_id": "cand_485",
+    "job_id": "job_4",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-15T06:02:46.389844"
+  },
+  {
+    "id": "app_486",
+    "candidate_id": "cand_486",
+    "job_id": "job_14",
+    "job_title": "Product Data Scientist",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-10T04:37:32.211504"
+  },
+  {
+    "id": "app_487",
+    "candidate_id": "cand_487",
+    "job_id": "job_20",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-26T14:21:58.565329"
+  },
+  {
+    "id": "app_488",
+    "candidate_id": "cand_488",
+    "job_id": "job_8",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-23T14:16:09.192460"
+  },
+  {
+    "id": "app_489",
+    "candidate_id": "cand_489",
+    "job_id": "job_10",
+    "job_title": "Product Data Scientist",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-18T23:40:26.061254"
+  },
+  {
+    "id": "app_490",
+    "candidate_id": "cand_490",
+    "job_id": "job_8",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-25T01:27:28.476408"
+  },
+  {
+    "id": "app_491",
+    "candidate_id": "cand_491",
+    "job_id": "job_14",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Agency",
+    "created_at": "2025-04-20T13:47:58.550178"
+  },
+  {
+    "id": "app_492",
+    "candidate_id": "cand_492",
+    "job_id": "job_16",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-05-04T21:29:53.165707"
+  },
+  {
+    "id": "app_493",
+    "candidate_id": "cand_493",
+    "job_id": "job_17",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Job Board",
+    "created_at": "2025-05-03T07:56:09.894384"
+  },
+  {
+    "id": "app_494",
+    "candidate_id": "cand_494",
+    "job_id": "job_7",
+    "job_title": "Software Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-25T16:19:11.985279"
+  },
+  {
+    "id": "app_495",
+    "candidate_id": "cand_495",
+    "job_id": "job_15",
+    "job_title": "Backend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-27T19:53:38.579304"
+  },
+  {
+    "id": "app_496",
+    "candidate_id": "cand_496",
+    "job_id": "job_20",
+    "job_title": "Data Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-04-29T08:30:14.823276"
+  },
+  {
+    "id": "app_497",
+    "candidate_id": "cand_497",
+    "job_id": "job_9",
+    "job_title": "Frontend Engineer",
+    "status": "rejected",
+    "source": "Referral",
+    "created_at": "2025-04-22T15:24:49.214339"
+  },
+  {
+    "id": "app_498",
+    "candidate_id": "cand_498",
+    "job_id": "job_7",
+    "job_title": "Platform Engineer",
+    "status": "rejected",
+    "source": "Job Board",
+    "created_at": "2025-05-02T02:41:35.840611"
+  },
+  {
+    "id": "app_499",
+    "candidate_id": "cand_499",
+    "job_id": "job_1",
+    "job_title": "Data Engineer",
+    "status": "offered",
+    "source": "Referral",
+    "created_at": "2025-05-08T00:01:36.243067"
+  }
+]
